@@ -11,6 +11,8 @@
     <PackageReleaseNotes>First version.</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/alexarriete/TextDataBase</RepositoryUrl>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://acernuda.com</PackageProjectUrl>
   </PropertyGroup>
 
   <ItemGroup>
