@@ -16,8 +16,7 @@
     <None Include="..\..\..\..\..\Users\aleja\Downloads\acernuda.png">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
-    </None>
-    <None Include="https:\github.com\alexarriete\TextDataBase\blob\master\README.md" />
+    </None>  
   </ItemGroup>
 
   <ItemGroup>
