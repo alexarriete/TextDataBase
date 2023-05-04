@@ -10,10 +10,15 @@
     <PackageIcon>acernuda.png</PackageIcon>
     <PackageReleaseNotes>First version.</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/alexarriete/TextDataBase</RepositoryUrl>
+    <PackageReadmeFile>Readme.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="..\..\..\..\..\Users\aleja\Downloads\acernuda.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\..\..\..\Visual Studio Code\TextDatabase\Readme.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>  
