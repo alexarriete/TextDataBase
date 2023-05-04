@@ -69,7 +69,7 @@ using TextDataBase;
   }
 ```
 
-## Otros ejemplos
+## Other examples
 
 ##### Backup example
 
