@@ -91,4 +91,4 @@ using TextDataBase;
 
 ## Summary
 
-Although I have tested thousands of records, we do not consider it a substitute for databases. TextDatabase can work well with a low-complexity structure and a small volume of data. Specifically, when it is required to store temporary or configuration data, etc.
+Although we tested thousands of records, we do not consider it a substitute for databases. TextDatabase can work well with a low-complexity structure and a small volume of data. Specifically, when it is required to store temporary or configuration data, etc.
