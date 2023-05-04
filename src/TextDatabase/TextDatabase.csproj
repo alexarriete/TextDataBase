@@ -9,6 +9,7 @@
     <Description>Contains several methods for the most common interactions between a text database and applications.</Description>
     <PackageIcon>acernuda.png</PackageIcon>
     <PackageReleaseNotes>First version.</PackageReleaseNotes>
+    <RepositoryUrl>https://github.com/alexarriete/TextDataBase</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
@@ -16,6 +17,7 @@
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>
+    <None Include="https:\github.com\alexarriete\TextDataBase\blob\master\README.md" />
   </ItemGroup>
 
   <ItemGroup>
