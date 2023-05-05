@@ -11,10 +11,8 @@ var products = await RootProducts.GetAllAsync();
 
 //TestCase.List(products);
 //TestCase.Update3(products);
-TestCase.Insert1(products);
+//TestCase.Insert1(products);
 //TestCase.DeleteRange(products);
-
-
 
 
 

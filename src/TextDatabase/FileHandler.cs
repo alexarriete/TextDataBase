@@ -141,9 +141,9 @@ namespace TextDatabase
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <returns>IEnumerable<T></returns>
-        public async Task<IEnumerable<IAR>?> GetAsync<T>()
+        public async Task<IEnumerable<T>?> GetAsync<T>()
         {
-            return await Task.Run(() => GetList<T>());
+            return await Task.Run(() => Get<T>());
         }
 
         /// <summary>
