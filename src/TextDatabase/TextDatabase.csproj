@@ -8,12 +8,12 @@
     <Company>aCernuda.com</Company>
     <Description>Contains several methods for the most common interactions between a text database and applications.</Description>
     <PackageIcon>acernuda.png</PackageIcon>
-    <PackageReleaseNotes>Adding Readme</PackageReleaseNotes>
+    <PackageReleaseNotes>GetAsync&lt;T&gt;() issue.</PackageReleaseNotes>
     <RepositoryUrl>https://github.com/alexarriete/TextDataBase</RepositoryUrl>
     <PackageReadmeFile>Readme.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageProjectUrl>https://acernuda.com</PackageProjectUrl>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
     <Authors>Alejandro Cernuda</Authors>
   </PropertyGroup>
 

@@ -14,6 +14,3 @@ var products = await RootProducts.GetAllAsync();
 //TestCase.Insert1(products);
 //TestCase.DeleteRange(products);
 
-
-
-

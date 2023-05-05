@@ -95,7 +95,7 @@ namespace TextDatabase
         /// <returns>IEnumerable<T></returns>
         public IEnumerable<T>? Get<T>()
         {
-           return GetList<T>().Cast<T>();
+           return GetList<T>()?.Cast<T>();
         }
 
         private IEnumerable<IAR>? GetList<T>()
